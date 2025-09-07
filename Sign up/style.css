@@ -1,0 +1,21 @@
+div {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 40px;
+    text-align: center;
+    
+    
+
+}
+#one{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    
+}
+body{
+    background-color: gray;
+}
